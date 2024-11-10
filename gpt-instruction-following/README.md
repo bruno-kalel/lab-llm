@@ -1,0 +1,2 @@
+# 💬 GPT for Instruction Following
+This notebook demonstrates the process of training a GPT to follow instructions effectively, using a custom dataset for varied tasks. From data preprocessing to model training and text generation.
