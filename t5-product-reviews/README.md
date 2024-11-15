@@ -1,0 +1,2 @@
+# 🤖 Fine-Tuning T5 for Product Review Generation
+This notebook explores the task of generating product reviews using the T5 (Text-to-Text Transfer Transformer) model. It encompasses data preparation, model training and review generation.
